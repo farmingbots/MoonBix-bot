@@ -1,4 +1,5 @@
-## Recommendation before use
+## MOONBIX-BOT
+![IMG-20241023-WA0016](https://github.com/user-attachments/assets/76ac027c-d662-4fc3-99af-d1cd6bc90a0b)
 
 # Join the bot [here](https://t.me/Binance_Moonbix_bot/start?startApp=ref_7999003458&startapp=ref_7999003458&utm_medium=web_share_copy)
 
