@@ -106,7 +106,7 @@ class Tapper:
             ))
 
             auth_url = web_view.url
-            # print(auth_url)
+            # print(auth_url) 
             tg_web_data1 = unquote(string=auth_url.split('tgWebAppData=')[1].split('&tgWebAppVersion')[0])
             tg_web_data = unquote(
                 string=unquote(string=auth_url.split('tgWebAppData=')[1].split('&tgWebAppVersion')[0]))
